@@ -1,0 +1,12 @@
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Mosek = "6405355b-0ac2-5fba-af84-adbd65488c0e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ProximalOperators = "a725b495-10eb-56fe-b38b-717eba820537"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RandomMatrices = "2576dda1-a324-5b11-aa66-c48ed7e3c618"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
